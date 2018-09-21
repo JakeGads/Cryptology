@@ -37,11 +37,7 @@ public class Polybuis {
 		String
 			keyword = JOptionPane.showInputDialog("Enter the Key Word"),
 			plainText = JOptionPane.showInputDialog("Enter the plain text");
-		char
-			poly[][];
-		int
-			col = 0,
-			row = 0;
+		
 	}
 }
 
